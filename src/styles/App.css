@@ -1,1 +1,22 @@
 
+form {
+    width: fit-content
+}
+
+form input {
+    padding: 5px;
+    margin-left: 5px;
+}
+
+form button {
+    padding: 5px 12px;
+    cursor: pointer;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+h2{
+    color: green;
+}
